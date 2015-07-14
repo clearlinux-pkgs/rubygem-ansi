@@ -1,0 +1,1 @@
+pushd %{buildroot}%{gem_dir}/gems/ansi-1.5.0 && rubytest -I.:lib:test test/case_*.rb && popd
