@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ansi
 Version  : 1.5.0
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/ansi-1.5.0.gem
 Source0  : https://rubygems.org/downloads/ansi-1.5.0.gem
 Summary  : No detailed summary available
