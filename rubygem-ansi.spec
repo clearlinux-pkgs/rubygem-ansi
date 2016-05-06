@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ansi
 Version  : 1.5.0
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/ansi-1.5.0.gem
 Source0  : https://rubygems.org/downloads/ansi-1.5.0.gem
 Summary  : No detailed summary available
@@ -12,12 +12,15 @@ Group    : Development/Tools
 License  : BSD-2-Clause
 BuildRequires : ruby
 BuildRequires : rubygem-ae
+BuildRequires : rubygem-ansi
 BuildRequires : rubygem-ergo
 BuildRequires : rubygem-indexer
 BuildRequires : rubygem-lemon
 BuildRequires : rubygem-mast
 BuildRequires : rubygem-qed
 BuildRequires : rubygem-rdoc
+BuildRequires : rubygem-rubytest
+BuildRequires : rubygem-rubytest-cli
 
 %description
 # ANSI
